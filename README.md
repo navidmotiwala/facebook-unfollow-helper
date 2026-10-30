@@ -1,4 +1,4 @@
-# Facebook Unfollow Helper (Chrome extension)
+**# Facebook Unfollow Helper (Chrome Booklet Extension)**
 
 ## Install
 1. Extract `facebook_unfollow_helper.zip`.
