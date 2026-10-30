@@ -1,0 +1,12 @@
+{
+  "manifest_version": 3,
+  "name": "Facebook Unfollow Helper",
+  "version": "1.0.0",
+  "description": "Helps you review and unfollow Facebook friends, Pages, and groups from Facebook's own interface.",
+  "permissions": ["activeTab", "scripting"],
+  "host_permissions": ["https://www.facebook.com/*"],
+  "action": {
+    "default_title": "Facebook Unfollow Helper",
+    "default_popup": "popup.html"
+  }
+}
